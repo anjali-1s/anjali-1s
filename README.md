@@ -1,7 +1,7 @@
-![logo](https://i.ytimg.com/vi/lfc-q-vAA1s/maxresdefault.jpg)
+![logo](https://i.gifer.com/8J28.gif)
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
 <h3 align="center">A passionate programmer from india</h3>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&w=315&h=198&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-1s&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-1s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali-1s" alt="anjali-1s" /></a> </p>
@@ -34,5 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali-1s&show_icons=true&locale=en&layout=compact" alt="anjali-1s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali-1s&show_icons=true&locale=en" alt="anjali-1s" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anjali-1s&show_icons=true&locale=en" alt="anjali-1s" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-1s&" alt="anjali-1s" /></p>
