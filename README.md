@@ -34,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali-1s&show_icons=true&locale=en&layout=compact" alt="anjali-1s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali-1s&show_icons=true&locale=en" alt="anjali-1s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-1s&" alt="anjali-1s" /></p>
