@@ -1,3 +1,4 @@
+![logo](https://i.ytimg.com/vi/lfc-q-vAA1s/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
 <h3 align="center">A passionate programmer from india</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&w=315&h=198&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
