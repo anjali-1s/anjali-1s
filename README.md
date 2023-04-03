@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anjilikumari112@gmail.com**
 
-- ⚡ Fun fact **I am Ambivert😊**
+- ⚡ Fun fact **I am an Ambivert😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
