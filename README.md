@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **c++ programming, DBMS**
 
-- 📫 How to reach me **anjilikumari112@gmail.com**
+- 📫 How to reach me **singhanjali83261@gmail.com**
 
 - ⚡ Fun fact **I am Ambivert😊**
 
