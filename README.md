@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **c++ programming, DBMS**
 
--   <pre>   View my <a href = "http://127.0.0.1:5500/index.html">Portfolio Site</a></pre>
+-   <pre>  View my <a href = "http://127.0.0.1:5500/index.html">Portfolio Site</a></pre>
 
 - 📫 How to reach me **singhanjali83261@gmail.com**
 
