@@ -15,9 +15,10 @@
 
 - 📫 How to reach me **singhanjali83261@gmail.com**
 
+- <pre> <b> View my <a href = "http://127.0.0.1:5500/index.html">Portfolio Site</a></b></pre>
+
+
 - ⚡ Fun fact **I am Ambivert😊**
-  
--  <pre> <b> View my <a href = "http://127.0.0.1:5500/index.html">Portfolio Site</a></b></pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
