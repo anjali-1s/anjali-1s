@@ -9,15 +9,12 @@
 
 - 🌱 I’m currently learning **c++ placement course , DBMS**
 
-- 👨‍💻 All of my projects are available at [Anjali Singh at Linkedin](Anjali Singh at Linkedin)
+- 👨‍💻 All of my projects are available at (Anjali Singh at Linkedin)
 
 - 💬 Ask me about **c++ programming, DBMS**
 
 - 📫 How to reach me **singhanjali83261@gmail.com**
-
-- <pre> <b> View my <a href = "http://127.0.0.1:5500/index.html">Portfolio Site</a></b></pre>
-
-
+  
 - ⚡ Fun fact **I am Ambivert😊**
 
 <h3 align="left">Connect with me:</h3>
