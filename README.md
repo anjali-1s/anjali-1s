@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT and REACT**
 
-- 👨‍💻 All of my projects are available at [http://192.168.117.102:5500](http://192.168.117.102:5500)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Anything related to front-end development**
 
 - 📫 How to reach me **singhanjali83261@gmail.com**
 
-- 📄 Know about my experiences [http://192.168.117.102:5500](http://192.168.117.102:5500)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am Ambivert😊**
 
